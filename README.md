@@ -1,4 +1,4 @@
-# Feiehew A simple http server
+# Feiehews - A simple http server
 ## 例子
 ```
 import FeieServer from "./feiehews.mjs";
