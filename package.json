@@ -10,6 +10,10 @@
     "http",
     "http2"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feie9455/feiehews.git"
+  },
   "author": "feie9454",
   "license": "GPL-3.0"
 }
