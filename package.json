@@ -1,0 +1,15 @@
+{
+  "name": "feiehews",
+  "version": "1.0.0",
+  "description": "A simple http server, using http2 with high efficiency, support Server Push.",
+  "main": "feiehews.mjs",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": [
+    "http",
+    "http2"
+  ],
+  "author": "feie9454",
+  "license": "GPL-3.0"
+}
